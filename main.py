@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-df = pd.read_csv('database.csv')
+df = pd.read_csv('Earthquakes_database.csv')
 
 # Task 1: Data Manipulation
 # 1.1 Split 'Date' into 'Year', 'Month', 'Day'
